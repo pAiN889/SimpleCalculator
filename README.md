@@ -2,7 +2,6 @@
 
 A clean, modern, and reliable native Android calculator application built with Java and XML Views.
 
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-2024.2+-brightgreen.svg)](https://developer.android.com/studio)
 [![Language](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com)
 [![Build Status](https://img.shields.io/badge/Build-Passing-success.svg)](#)
 
